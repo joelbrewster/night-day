@@ -13,4 +13,5 @@ Start night-day app to change theme, then quit it (cmd+q)
 
 
 ## TODO
+- Add a proper icon
 - Extend this to change iTerm/1/2/3/∞ theme too
