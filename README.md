@@ -1,6 +1,6 @@
 # night-day app
 
-# Requirements
+## Requirements
 - You will need 2 wallpaper pictures in: `~/Pictures`
   - day.png
   - night.png
@@ -8,5 +8,9 @@
   - day
   - night
 
-# How to use
+## How to use
 Start night-day app to change theme, then quit it (cmd+q)
+
+
+## TODO
+- Extend this to change iTerm/1/2/3/∞ theme too
